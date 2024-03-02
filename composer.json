@@ -1,0 +1,15 @@
+{
+    "name": "popsonjr/php_mvc_framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Popoola",
+            "email": "popoolama@yahoo.com"
+        }
+    ],
+    "require": {}
+}
